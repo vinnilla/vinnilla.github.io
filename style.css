@@ -1,0 +1,41 @@
+body {
+	background-color: black;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	color: white;
+}
+
+h1 {
+	width: 14vw;
+	height: 6vh;
+	position: absolute;
+	left: 43vw;
+	top: 40vh;
+}
+
+a {
+	position: absolute;
+	width: 10vw;
+	height: 6vh;
+	left: 45vw;
+	top: 50vh;
+	color: white;
+}
+
+a:hover {
+	color: red;
+	text-decoration: none;
+}
+
+.carousel {
+	margin: 15vh auto 0 auto;
+	height: 50vh;
+	width: 50vw;
+}
+
+img {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 auto;
+	max-height: 50vh;
+}
